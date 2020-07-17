@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularCkeditor5"
+    }
+  },
+  "defaultProject": "AngularCkeditor5",
+  "cli": {
+    "analytics": "2a36faa4-eebc-4ce1-9760-b5de16bbc75a"
+  }
 }
